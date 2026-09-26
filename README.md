@@ -2,19 +2,20 @@
 
 I'm a **Mechanical Engineer, Researcher, and Educator** interested in sustainable energy, life-cycle assessment, data, and lifelong learning.
 
-I'm currently based in **Coimbra, Portugal**, working in the field of **Sustainable Energy Systems and Life-Cycle Assessment (LCA)**.
+I'm currently based in **Portugal**, working in the field of **Enviornmental Sustainability, Life-Cycle Assessment (LCA) and Circularity Assessment**.
 
 ## 🔬 Research
 
 My research interests include:
 
-- Life-Cycle Assessment (LCA)
+- Life Cycle Assessment (LCA)
 - Prospective LCA
-- Sustainable energy systems
-- Biobased products and technologies
-- Circular economy
+- Enviornmental Sustainability
+- Circularity Assessment
+- Circular Bio-economy
 - Environmental sustainability
 - Data-driven research
+- Sustainable Biobased Products, Systems and Technologies
 
 ## 🎓 Zulfi's Academy
 
