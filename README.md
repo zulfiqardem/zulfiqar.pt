@@ -32,7 +32,7 @@ Topics include:
 
 ## 📚 Course
 
-I created a **16-hour Introduction to Fluid Mechanics** course on Udemy for engineering students and independent learners.
+I created a **[16-hour Course on Introduction to Fluid Mechanics for Mechanical Engineering Students](https://www.udemy.com/course/introduction-to-fluid-mechanics-for-engineering-students/?referralCode=90E7727EB13303E6C763)** course on Udemy for engineering students and independent learners.
 
 ## ✍️ Writing
 
