@@ -43,7 +43,7 @@ I write about **learning, research, education, scholarships, sustainability, and
 - 🌍 **Website:** [zulfiqar.pt](https://zulfiqar.pt/)
 - 🎓 **Zulfi's Academy:** [zulfisacademy.com](https://zulfisacademy.com/)
 - 💼 **LinkedIn:** [linkedin.com/in/zulfiqarali4](https://www.linkedin.com/in/zulfiqarali4/)
-- ✍️ **Blog:** [Zulfi's Academy Blog](https://zulfisacademy.blogspot.com/)
+- ✍️ **Blog:** [Zulfi's Academy Blog](https://zulfisacademy.com/blog/)
 
 ---
 
