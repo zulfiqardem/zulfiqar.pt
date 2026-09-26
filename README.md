@@ -1,24 +1,49 @@
-# zulfiqar.pt
+# Hi, I'm Zulfiqar 👋
 
-Minimal personal portfolio for Zulfiqar Ali, built as a plain static website for GitHub Pages.
+I'm a **Mechanical Engineer, Researcher, and Educator** interested in sustainable energy, life-cycle assessment, data, and lifelong learning.
 
-## Publish
+I'm currently based in **Coimbra, Portugal**, working in the field of **Sustainable Energy Systems and Life-Cycle Assessment (LCA)**.
 
-1. Create a GitHub repository (for example `zulfiqar.pt` or `YOUR-USERNAME.github.io`).
-2. Upload these files to the repository's `main` branch.
-3. Go to **Settings → Pages**.
-4. Choose **Deploy from a branch** and select `main` / `/ (root)`, or use GitHub Actions if preferred.
-5. GitHub Pages will publish `index.html`.
-6. The included `CNAME` file is set to `zulfiqar.pt`.
+## 🔬 Research
 
-## Edit the site
+My research interests include:
 
-The main page is `index.html` and the styling is in `assets/css/style.css`.
+- Life-Cycle Assessment (LCA)
+- Prospective LCA
+- Sustainable energy systems
+- Biobased products and technologies
+- Circular economy
+- Environmental sustainability
+- Data-driven research
 
-Before publishing, replace any placeholder/external destination that you want to make more specific:
-- Udemy: change the current Udemy link to your exact course URL.
-- Research: change the current Brightcon/contribution link to the paper, DOI, PDF, or repository you want visitors to read.
-- Email: change `hello@zulfiqar.pt` if needed.
-- Add GitHub, ORCID, Google Scholar, YouTube, X, etc. if you want them in the social row.
+## 🎓 Zulfi's Academy
 
-The site intentionally stays as one very minimal page rather than becoming a traditional multi-page portfolio.
+I also run **[Zulfi's Academy](https://zulfisacademy.com/)** — a lifelong-learning initiative where I share practical knowledge, resources, courses, and guidance for students, researchers, and curious learners.
+
+Topics include:
+
+- Academic research & writing
+- Scholarships & studying abroad
+- Sustainability & LCA
+- Data analytics
+- Productivity & learning
+- Engineering
+
+## 📚 Course
+
+I created a **16-hour Introduction to Fluid Mechanics** course on Udemy for engineering students and independent learners.
+
+## ✍️ Writing
+
+I write about **learning, research, education, scholarships, sustainability, and building a meaningful career**.
+
+## 🌐 Find Me Online
+
+- 🌍 **Website:** [zulfiqar.pt](https://zulfiqar.pt/)
+- 🎓 **Zulfi's Academy:** [zulfisacademy.com](https://zulfisacademy.com/)
+- 💼 **LinkedIn:** [linkedin.com/in/zulfiqarali4](https://www.linkedin.com/in/zulfiqarali4/)
+- ✍️ **Blog:** [Zulfi's Academy Blog](https://zulfisacademy.blogspot.com/)
+
+---
+
+> **Learn. Grow. Share. Make an impact.**
